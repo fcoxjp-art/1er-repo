@@ -1,7 +1,7 @@
 # 1er-repo
 #  Mi Primer Repositorio
 
-**Nombre:** [Francisco JImenez]  
+**Nombre:** [cisco Jimenez]  
 
 **Bootcamp:** Data Analyst  
 
